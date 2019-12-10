@@ -245,50 +245,7 @@ public class charanim : MonoBehaviour
 
 		
 
-		// bone_t[8].position = new Vector3((float)bone_t[8].position.x,(float)bone_t[7].position.y, (float)bone_t[8].position.z);
 		
-		// bone_t[9].position = new Vector3((float)bone_t[9].position.x,(float)bone_t[7].position.y, (float)bone_t[8].position.z);
-
-		// bone_t[10].position = new Vector3((float)bone_t[10].position.x,(float)bone_t[10].position.y, (float)bone_t[10].position.z);
-
-		// // Debug.Log("hii Neck"+bone_t[8].position.ToString());
-		// // Debug.Log("hii Spine"+bone_t[7].position.z);
-
-		// Debug.Log("hii Spine"+bone_t[7].position.ToString());
-		// Debug.Log("hii Chest"+bone_t[8].position.ToString());
-		// Debug.Log("hii Neck"+bone_t[9].position.ToString());
-		// Debug.Log("hii Head"+bone_t[10].position.ToString());
-
-			//  dc=new Vector3((float)bone_t[8].position.x-(float)bone_t[7].position.x,(float)bone_t[8].position.y-(float)bone_t[7].position.y,(float)bone_t[8].position.z-(float)bone_t[7].position.z);
-
-		// 	float testx=((float)bone_t[8].position.x-(float)bone_t[7].position.x);
-		// 	float testy=((float)bone_t[8].position.y-(float)bone_t[7].position.y);
-		// 	float testz=((float)bone_t[8].position.z-(float)bone_t[7].position.z);
-		// Debug.Log("hii  hii dc"+testx.ToString()+"   y to string"+testy.ToString()+"z to string "+testz.ToString());
-
-		// float paramx2=((float)bone_t[9].position.x-(float)bone_t[7].position.x)/testx;
-		// // float paramy2=((float)bone_t[9].position.y-(float)bone_t[8].position.y)/testy;
-
-		// Debug.Log("paramx"+paramx2.ToString());
-		// // Debug.Log("paramy"+paramy2.ToString());
-
-		// float newNeckx=paramx2*testx+(float)bone_t[9].position.x;
-
-		// float newNecky=paramx2*testy+(float)bone_t[9].position.y;
-		// float newNeckz=paramx2*testy+(float)bone_t[9].position.z;
-
-		// bone_t[9].position= new Vector3(newNeckx,newNecky,newNeckz);
-
-
-		// float newHeadx=(float)bone_t[10].position.x;
-
-		// float newHeady=2*testy+(float)bone_t[8].position.y;
-		// float newHeadz=2*testz+(float)bone_t[8].position.z;
-
-		// bone_t[10].position= new Vector3(newHeadx,newHeady,newHeadz);
-
-
-
 
 		bone_t[8].rotation = Quaternion.AngleAxis(head_angle, bone_t[11].position - bone_t[14].position) * bone_t[8].rotation;
 	}
