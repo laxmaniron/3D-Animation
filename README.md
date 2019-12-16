@@ -15,3 +15,6 @@ Instructions to run the code
   <a href="https://github.com/una-dinosauria/3d-pose-baseline">3D Pose estimation Baseline</a>
   <br>
 5. Place output of the step 4 in unity assets folder and run it to watch the animation
+
+
+https://medium.com/@sravanvinakota/dc48cf1227f2
