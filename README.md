@@ -20,5 +20,4 @@ Instructions to run the code
 Medium Link : https://medium.com/@sravanvinakota/dc48cf1227f2
 
 
-
-[![IMAGE ALT TEXT](./Screenshot%from%2019-12-16%22-38-29.png)](https://www.youtube.com/watch?time_continue=24&v=f9cXyo3saAI "Video Title")
+Demo Link: https://www.youtube.com/watch?time_continue=24&v=f9cXyo3saAI 
