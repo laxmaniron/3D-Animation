@@ -33,11 +33,10 @@
 
 # Results
 ## Single Person
-<ul>
-<li>![](sind1.png)</li>
-<li>![](snd2.png)</li>
-<li>![](snd3.png)</li>
- </ul>
+![](sind1.png)
+![](snd2.png)
+![](snd3.png)
+ 
 
 
 Demo Link: https://www.youtube.com/watch?time_continue=24&v=f9cXyo3saAI 
