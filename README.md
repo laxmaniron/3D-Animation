@@ -11,7 +11,7 @@
 </ol>
 
 # Instructions to run the code
-<ol type="A">
+<ol type="1">
    
 <li>Download Alpha pose and set it up from the link below
    <a href="https://github.com/MVIG-SJTU/AlphaPose">Alpha Pose</a> 
