@@ -28,7 +28,17 @@
    
 </ol>
 
-Medium Link : https://medium.com/@sravanvinakota/dc48cf1227f2
+# Medium Link : https://medium.com/@sravanvinakota/dc48cf1227f2
+
+
+# Results
+## Single Person
+<ul>
+<li>![](./gd1.png)</li>
+<li>![](./gd1.png)</li>
+<li>![](./gd1.png)</li>
+<li>![](./gd1.png)</li>
+ </ul>
 
 
 Demo Link: https://www.youtube.com/watch?time_continue=24&v=f9cXyo3saAI 
