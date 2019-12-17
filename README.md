@@ -12,6 +12,7 @@
 
 # Instructions to run the code
 <ol type="A">
+   
 <li>Download Alpha pose and set it up from the link below
    <a href="https://github.com/MVIG-SJTU/AlphaPose">Alpha Pose</a> 
    </li>
@@ -24,6 +25,7 @@
   <a href="https://github.com/una-dinosauria/3d-pose-baseline">3D Pose estimation Baseline</a>
  </li>
 <li> Place output of the step 4 in unity assets folder and run it to watch the animation </li>
+   
 </ol>
 
 Medium Link : https://medium.com/@sravanvinakota/dc48cf1227f2
