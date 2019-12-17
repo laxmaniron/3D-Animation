@@ -34,10 +34,9 @@
 # Results
 ## Single Person
 <ul>
-<li>![](./gd1.png)</li>
-<li>![](./gd1.png)</li>
-<li>![](./gd1.png)</li>
-<li>![](./gd1.png)</li>
+<li>![](sind1.png)</li>
+<li>![](snd2.png)</li>
+<li>![](snd3.png)</li>
  </ul>
 
 
