@@ -1,5 +1,5 @@
 # 3D-Animation
-2D to 3D motion capture
+Transfer of movement of a person from a 2d video to 3d environment unity
 
 # Requirements
 <ol type="A">
