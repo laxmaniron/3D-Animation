@@ -1,6 +1,15 @@
 # 3D-Animation
 2D to 3D motion capture
 
+# Requirements
+<ol type="a">
+   <li>python 3.6</li>
+   <li>Tensorflow  1.12</li>
+   <li>Pytorch 0.4</li>
+   <li>Cuda toolkit 9.0</li>
+   <li>Cudnn</li>
+</ol>
+
 Instructions to run the code
 
 1.Download Alpha pose and set it up from the link below
