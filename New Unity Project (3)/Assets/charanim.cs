@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using System;
+using System.Globalization;
 
 // pos.txt
 // https://github.com/miu200521358/3d-pose-baseline-vmd/blob/master/doc/Output.md
@@ -71,7 +72,7 @@ public class charanim : MonoBehaviour
 
 			Vector3[] vs = new Vector3[bone_num];
 			for (int i = 0; i < str.Length; i += 4) {
-				vs[(int)(i/4)] = new Vector3(-float.Parse(str[i + 1]), float.Parse(str[i + 3]), -float.Parse(str[i + 2]));
+				vs[(int)(i/4)] = new Vector3(-float.Parse(str[i + 1], CultureInfo.InvariantCulture), float.Parse(str[i + 3], CultureInfo.InvariantCulture), -float.Parse(str[i + 2], CultureInfo.InvariantCulture));
 			}
 			data.Add(vs);
 		}
