@@ -1,5 +1,5 @@
-# 3D-Animation
-Transfer of movement of a person from a 2d video to 3d environment unity
+# Animepose: Multi-person 3D Pose Estimation and Animation
+This repo contains application implementation of paper Animepose: Multi-person 3D Pose Estimation and Animation. Basically using this code you transfers of movement of a person from a 2d video to 3d environment in unity
 
 # Requirements
 <ol type="A">
